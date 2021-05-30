@@ -1,0 +1,5 @@
+name: MythicMobs-CustomDrops-Example
+main: de.timoj.mythicmobs.customDrops.CustomDropsExample
+version: 1.0
+depend: [MythicMobs]
+api-version: 1.14
